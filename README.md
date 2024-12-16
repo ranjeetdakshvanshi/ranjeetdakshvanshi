@@ -17,4 +17,3 @@
   <a href="https://github.com/ranjeetdakshvanshi/FULL-STACK-JAVA"><img alt="FULL STACK" width="200px" src="https://github.com/user-attachments/assets/87b06b3c-9eba-4411-afc6-13aa2b196824"/></a>
 
  </p>
- <a href="https://github.com/ranjeetdakshvanshi/FULL-STACK-JAVA"><img alt="FOLLOW ME"  src="https://github.com/user-attachments/assets/a640c077-9fd1-4044-84e0-94c34ea067b1" /></a>
