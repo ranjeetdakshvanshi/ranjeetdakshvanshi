@@ -15,5 +15,5 @@
   <a href="https://github.com/ranjeetdakshvanshi/MERN-STACK"><img alt="Mern-Stack" width="200px" src="https://github.com/user-attachments/assets/ae6eac97-e92a-4252-8e48-c1181d32b9f5" /></a>
   <a href="https://github.com/ranjeetdakshvanshi/MEAN-STACK"><img alt="all-demo" width="200px" src="https://github.com/user-attachments/assets/6c92711b-d72e-47df-a1b6-e6029770b808"/></a>
   <a href="https://github.com/ranjeetdakshvanshi/demo"><img alt="coding&template" src="https://github.com/user-attachments/assets/d5f17a64-5d51-46c6-845c-7de74d54c39c"/></a>
-    <a href="https://github.com/ranjeetdakshvanshi"><img alt="Follow-Me" width="100px" src="https://github.com/user-attachments/assets/ffa4c14d-5785-48cb-8efa-3783ac41f03d"/></a>
+    <a href="https://github.com/ranjeetdakshvanshi"><img alt="Follow-Me" width="200px" src="https://github.com/user-attachments/assets/ffa4c14d-5785-48cb-8efa-3783ac41f03d"/></a>
  </p>
