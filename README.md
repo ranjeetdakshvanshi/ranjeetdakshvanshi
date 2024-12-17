@@ -1,10 +1,4 @@
 ## Hi there 👋
-### Skills
-- 👨‍💻 Java, JavaScript, TypeScript, Express, NodeJs
-- ⚙️ React, Angular
-- 👁️ CSS, Bootstrap, Tailwind
-- 💽 MySQL, SQL, Mongo  <br>
-
  <a href="https://github.com/ranjeetdakshvanshi/LATEST-UPDATE"><img alt="Latest-Update" src="https://github.com/user-attachments/assets/c03a8a2a-c52c-4d67-8005-02b678d5acef" /></a>
 <p>
   <a href="https://github.com/ranjeetdakshvanshi/JAVA-CODE"><img alt="full-stack-java" width="200px" src="https://github.com/user-attachments/assets/45462e1e-8ab5-460b-b8c3-a20457cfb295"/></a>
