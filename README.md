@@ -1,5 +1,9 @@
 ## Hi there 👋
  <a href="https://github.com/ranjeetdakshvanshi/LATEST-UPDATE"><img alt="Latest-Update" src="https://github.com/user-attachments/assets/c03a8a2a-c52c-4d67-8005-02b678d5acef" /></a>
+ ![2025-01-22-FOLLOW-ME-FOR-AWSOME-CODE](https://github.com/user-attachments/assets/8bbcbb0b-32ba-4ee4-b49f-73b893e4c9c4)
+ ![2025-01-22-FOLLOW-ME-FOR-AWSOME-CODE](https://github.com/user-attachments/assets/daa5a040-9589-4e8f-b491-ffe7078f1432)
+
+
  <p><a href="https://github.com/ranjeetdakshvanshi/">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
