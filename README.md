@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <center>
- <a href="./"><img alt="Latest-Update" width="600px" height="250px" src="https://github.com/user-attachments/assets/ac140351-b900-44fc-818a-c5e527f9b781" /></a><br>
+ <a href="./"><img alt="Latest-Update" width="600px" height="250px" src="https://github.com/user-attachments/assets/392a8dd4-bc04-40c4-9b67-59e636f75b7b" /></a><br>
   <a href="https://github.com/ranjeetdakshvanshi/">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
