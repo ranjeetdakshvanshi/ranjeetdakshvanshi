@@ -1,3 +1,4 @@
+## PROJECTS (REACT & REDUX)
 
 
 ## PROJECTS (HTML,CSS,JS)
@@ -12,7 +13,7 @@
   <a href="https://todord.vercel.app/"><img alt="Latest-Update" width="200px" height="100px"   src="https://github.com/user-attachments/assets/789a3a25-412a-416e-855b-0e1db1ee5853" /></a> 
   <a href="https://randomjokesrd.vercel.app/"><img alt="Latest-Update"  width="200px" height="100px" src="https://github.com/user-attachments/assets/2755ce7f-463c-4d47-a38d-649c15de0708" /></a> 
   <a href="https://digitalclockrd.vercel.app/"><img alt="Latest-Update" width="200px" height="100px"  src="https://github.com/user-attachments/assets/edfb1c9b-1b53-476a-8539-b4e59b6ec5ad" /></a>
-  ## PROJECTS (REACT & REDUX)
+
   
   
 
