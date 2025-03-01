@@ -12,9 +12,7 @@
   <a href="https://todord.vercel.app/"><img alt="Latest-Update" width="270px" height="150px"   src="https://github.com/user-attachments/assets/789a3a25-412a-416e-855b-0e1db1ee5853" /></a> 
   <a href="https://randomjokesrd.vercel.app/"><img alt="Latest-Update"  width="270px" height="150px"  src="https://github.com/user-attachments/assets/2755ce7f-463c-4d47-a38d-649c15de0708" /></a>
   
-  <a href="https://digitaltimer.vercel.app/"><img alt="full-stack-java" width="270px" height="150px"  src="https://github.com/user-attachments/assets/d4a0dbce-38dc-49af-bddb-b3020ca63d48"/></a> 
-  <a href="https://democodestores.vercel.app/"><img alt="Latest-Update"  width="270px" height="150px"    src="https://github.com/user-attachments/assets/3ee3927a-49d2-4096-9a71-a2a29f1b44cd" /></a>
-
+  
   
   
 
